@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <rect width="16" height="16" fill="#0d1117"/>
+
+  <!-- Scattered debris — the broken -->
+  <rect x="0" y="3" width="1" height="1" fill="#475569"/>
+  <rect x="15" y="4" width="1" height="1" fill="#475569"/>
+  <rect x="2" y="14" width="1" height="1" fill="#475569"/>
+  <rect x="14" y="12" width="1" height="1" fill="#475569"/>
+  <rect x="0" y="10" width="1" height="1" fill="#334155"/>
+  <rect x="15" y="11" width="1" height="1" fill="#334155"/>
+
+  <!-- Left chevron outline — dark -->
+  <rect x="6" y="1" width="2" height="1" fill="#334155"/>
+  <rect x="5" y="2" width="3" height="1" fill="#334155"/>
+  <rect x="4" y="3" width="3" height="1" fill="#334155"/>
+  <rect x="3" y="4" width="3" height="1" fill="#334155"/>
+  <rect x="2" y="5" width="3" height="1" fill="#334155"/>
+  <rect x="1" y="6" width="3" height="1" fill="#334155"/>
+  <rect x="0" y="7" width="3" height="2" fill="#334155"/>
+  <rect x="1" y="9" width="3" height="1" fill="#334155"/>
+  <rect x="2" y="10" width="3" height="1" fill="#334155"/>
+  <rect x="3" y="11" width="3" height="1" fill="#334155"/>
+  <rect x="4" y="12" width="3" height="1" fill="#334155"/>
+  <rect x="5" y="13" width="3" height="1" fill="#334155"/>
+  <rect x="6" y="14" width="2" height="1" fill="#334155"/>
+
+  <!-- Left chevron fill — silver -->
+  <rect x="6" y="2" width="1" height="1" fill="#94a3b8"/>
+  <rect x="5" y="3" width="1" height="1" fill="#94a3b8"/>
+  <rect x="4" y="4" width="1" height="1" fill="#94a3b8"/>
+  <rect x="3" y="5" width="1" height="1" fill="#94a3b8"/>
+  <rect x="2" y="6" width="1" height="1" fill="#94a3b8"/>
+  <rect x="1" y="7" width="1" height="2" fill="#94a3b8"/>
+  <rect x="2" y="9" width="1" height="1" fill="#94a3b8"/>
+  <rect x="3" y="10" width="1" height="1" fill="#94a3b8"/>
+  <rect x="4" y="11" width="1" height="1" fill="#94a3b8"/>
+  <rect x="5" y="12" width="1" height="1" fill="#94a3b8"/>
+  <rect x="6" y="13" width="1" height="1" fill="#94a3b8"/>
+
+  <!-- Left chevron highlight — upper portion -->
+  <rect x="6" y="2" width="1" height="1" fill="#cbd5e1"/>
+  <rect x="5" y="3" width="1" height="1" fill="#cbd5e1"/>
+  <rect x="4" y="4" width="1" height="1" fill="#cbd5e1"/>
+  <rect x="3" y="5" width="1" height="1" fill="#cbd5e1"/>
+
+  <!-- Right chevron outline — dark -->
+  <rect x="8" y="1" width="2" height="1" fill="#334155"/>
+  <rect x="8" y="2" width="3" height="1" fill="#334155"/>
+  <rect x="9" y="3" width="3" height="1" fill="#334155"/>
+  <rect x="10" y="4" width="3" height="1" fill="#334155"/>
+  <rect x="11" y="5" width="3" height="1" fill="#334155"/>
+  <rect x="12" y="6" width="3" height="1" fill="#334155"/>
+  <rect x="13" y="7" width="3" height="2" fill="#334155"/>
+  <rect x="12" y="9" width="3" height="1" fill="#334155"/>
+  <rect x="11" y="10" width="3" height="1" fill="#334155"/>
+  <rect x="10" y="11" width="3" height="1" fill="#334155"/>
+  <rect x="9" y="12" width="3" height="1" fill="#334155"/>
+  <rect x="8" y="13" width="3" height="1" fill="#334155"/>
+  <rect x="8" y="14" width="2" height="1" fill="#334155"/>
+
+  <!-- Right chevron fill — silver -->
+  <rect x="9" y="2" width="1" height="1" fill="#94a3b8"/>
+  <rect x="10" y="3" width="1" height="1" fill="#94a3b8"/>
+  <rect x="11" y="4" width="1" height="1" fill="#94a3b8"/>
+  <rect x="12" y="5" width="1" height="1" fill="#94a3b8"/>
+  <rect x="13" y="6" width="1" height="1" fill="#94a3b8"/>
+  <rect x="14" y="7" width="1" height="2" fill="#94a3b8"/>
+  <rect x="13" y="9" width="1" height="1" fill="#94a3b8"/>
+  <rect x="12" y="10" width="1" height="1" fill="#94a3b8"/>
+  <rect x="11" y="11" width="1" height="1" fill="#94a3b8"/>
+  <rect x="10" y="12" width="1" height="1" fill="#94a3b8"/>
+  <rect x="9" y="13" width="1" height="1" fill="#94a3b8"/>
+
+  <!-- Void center glow -->
+  <rect x="6" y="7" width="4" height="2" fill="#475569"/>
+  <rect x="7" y="6" width="2" height="4" fill="#475569"/>
+  <rect x="7" y="7" width="2" height="2" fill="#e2e8f0"/>
+</svg>
